@@ -1,6 +1,6 @@
 # Medical PDF to Excel Converter
 
-This Streamlit app parses structured medical PDF reports into validated Excel files.
+This Streamlit app parses structured medical PDF reports for Antibiotics from AGHUX into validated Excel files.
 
 ## Features
 - Multi-PDF upload
